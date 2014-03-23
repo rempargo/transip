@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'bundler/setup'
+#require 'bundler/setup' # Don't use bundler/setup'
 require 'securerandom'
 require 'savon'
 require 'curb'
